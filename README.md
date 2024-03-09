@@ -35,4 +35,8 @@ Origami is a web scraper that get's wallpaper from any subreddit and set its as 
 
 1. Go to System Settings > Quick Settings > Change Wallpaper
 
-2. Change the the wallpaper type to slideshow and then select a destionation folder
+2. Change the the wallpaper type to slideshow and then select a destination folder
+
+## Windows
+
+There's no way to run it 😔
